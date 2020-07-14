@@ -1,0 +1,17 @@
+ext {
+    allDependencies = [
+            "di",
+            "payments",
+            "paymentSlip",
+            "digitalaccount",
+            "deprecated",
+            "databinding",
+            "portability",
+            "statement",
+            "extensions",
+            "financecomponents",
+            "activation"
+    ]
+}
+
+
