@@ -13,7 +13,7 @@ ext {
             "activation"
     ]
     
-    coreVersion = 10
+    coreVersion3 = 10
 }
 
 
