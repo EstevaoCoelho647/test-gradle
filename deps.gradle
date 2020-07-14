@@ -12,6 +12,8 @@ ext {
             "financecomponents",
             "activation"
     ]
+    
+    coreVersion = 10
 }
 
 
